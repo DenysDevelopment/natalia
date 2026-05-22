@@ -10,17 +10,18 @@ html, body { width: 100%; }
 html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
 
 body {
-  /* ── Palette: bone ───────────────────────────────────────────────────── */
-  --bg: #f6f3ec;
-  --bg-card: #fffbf3;
-  --bg-deep: #ece6da;
-  --ink: #1a1814;
-  --ink-soft: #45413a;
-  --ink-mute: #807a6e;
-  --line: rgba(26, 24, 20, .14);
-  --line-soft: rgba(26, 24, 20, .07);
-  --accent: #8b3a1a;
-  --accent-soft: #c87b5b;
+  /* ── Palette: red ────────────────────────────────────────────────────── */
+  --bg: #f6f0ed;
+  --bg-card: #fdf7f4;
+  --bg-deep: #ece0db;
+  --ink: #221310;
+  --ink-soft: #4a3a36;
+  --ink-mute: #857772;
+  --line: rgba(34, 19, 16, .14);
+  --line-soft: rgba(34, 19, 16, .07);
+  --accent: #a8201c;
+  --accent-soft: #d17a6c;
+  --night: #3a1417;          /* deep burgundy — dark sections */
 
   --font-serif: "Instrument Serif", "Cormorant Garamond", Georgia, serif;
   --font-body:  "Manrope", "DM Sans", system-ui, sans-serif;
