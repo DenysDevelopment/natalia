@@ -1,6 +1,7 @@
 .DS_Store
 *.log
 
-# Невикористані вихідники
+# Невикористані / проміжні файли
 assets/ig-4.jpg
 assets/portrait-spare.jpg
+assets/hero-new.png
